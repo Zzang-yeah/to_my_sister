@@ -15,8 +15,7 @@
 
 1Byte=8bit->2^8의 경우를 나타낼 수 있음
 
-![image-20201223121413601](C:\Users\cat78\AppData\Roaming\Typora\typora-user-images\image-20201223121413601.png)
-
+![image-20201223121413601](https://user-images.githubusercontent.com/71954155/103078007-48d2d900-4614-11eb-87f2-e9567b46a17a.png)
 ```c
 #include <stdio.h>
 
